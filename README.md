@@ -29,3 +29,5 @@
 >>但是一些技术与软件上的问题迫使我不得不先放下他们（因为真的太难了
 >>
 >>因此，我也希望能够借助414实验室的力量解决我在C和Unity上的困惑.
+
+![](https://github.com/YichikuLk/414join/blob/main/image/%E7%AB%8B%E7%BB%98_%E6%B5%B7%E6%B2%AB_1.png)
